@@ -1,7 +1,8 @@
 ### Spring 수업예제
 #### Ch01. Spring
-  + Hello World! 출력
-
+```
+  - Hello World! 출력
+```
 
 #### Ch02. Spring IoC
 ```
@@ -13,7 +14,9 @@
 ```
 
 #### Ch03. Spring Ioc 예제
-  + DI 어노테이션을 이용한 스프링 Ioc 구현
+```
+  - DI 어노테이션을 이용한 스프링 Ioc 구현
+```
 
 #### Ch04. Spring AOP
 ```
@@ -28,33 +31,48 @@
 ```
 
 #### Ch06. Spring JDBC
-  + 스프링 JDBC SELECT 실습하기
+```
+  - 스프링 JDBC SELECT 실습하기
+```
 
 #### Ch07. Spring MVC
-  + 스프링 MVC 실습하기
+```
+  - 스프링 MVC 실습하기
+```
 
 #### Ch08. Spring Mybatis
-  + Mybatis 실습하기
+```
+  - Mybatis 실습하기
+```
 
 #### Ch09. Spring-Boot
-  + SpringBoot! 출력하기
+```
+  - SpringBoot! 출력하기
+```
 
 #### Ch10. Spring Thymeleaf
-  + 기본 상속 레이아웃(th:fragment)
+```
+  - 기본 상속 레이아웃(th:fragment)
     - Header
     - Footer
-```    
+    
   layout1. 타임리프 layout 실습하기(th:insert, th:include, th:replace)
   layout2. 타임리프 템플릿 상속 실습하기(layout:fragment)
 ```
 
 #### Ch11. Spring-Boot 데이터베이스
-  + 사용자 목록, 등록, 수정
+```
+  - 사용자 목록, 등록, 수정
+```
 
 #### Ch12. Spring-Boot JPA
-  + JPA(Java Persistence API) 실습하기
+```
+  - JPA(Java Persistence API) 실습하기
+```
 
 #### Spring 예제
-  + sboard(myBatis)
-  + farmstory(myBatis)
-  + kmarket(myBatis, JPA)
+```
+  - sboard(myBatis)
+  - farmstory(myBatis)
+  - kmarket(myBatis, JPA)
+```
