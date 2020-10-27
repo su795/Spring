@@ -55,6 +55,6 @@
   + JPA(Java Persistence API) 실습하기
 
 #### Spring 예제
-  + sboard
-  + farmstory
-  + kmarket
+  + sboard(myBatis)
+  + farmstory(myBatis)
+  + kmarket(myBatis, JPA)
