@@ -1,4 +1,5 @@
-## Spring 수업예제
+## Spring 수업
+
 ### Ch01. Spring
 ```
   - Hello World! 출력
